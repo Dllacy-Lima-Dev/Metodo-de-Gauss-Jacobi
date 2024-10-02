@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# Método de Gauss Jacobi
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Imagens Do projeto:
+<div align="center">
+  <img src="/jacobi-app/src/img/jacobi-metodo-perfil.png" alt="Jacobi Método - Projeto" width="100%" />
+</div>
 
-## Available Scripts
 
-In the project directory, you can run:
+---
 
-### `npm start`
+### Tecnologias utilizadas:
+- ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
+- ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) **CSS**
+- ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
+- ![SweetAlert Icon](https://img.icons8.com/fluency/48/000000/alarm.png) **SweetAlert2**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Método de Gauss Jacobi! 
 
-### `npm test`
+Este é um aplicativo web que implementa o método de Gauss-Jacobi para resolver sistemas de equações lineares. Ele foi desenvolvido com foco em facilidade de uso e uma interface intuitiva, permitindo que os usuários insiram os dados de sua matriz e vetor e visualizem o processo de iteração até a solução.
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Licença livre do código! 
 
-### `npm run build`
+Você pode baixar o código e usar da forma que quiser a licença dele é livre.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Autor: Dllacy Lima
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Bacharelando em Sistemas de Informação
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
