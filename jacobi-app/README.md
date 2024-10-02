@@ -2,7 +2,7 @@
 
 ### Imagens Do projeto:
 <div align="center">
-  <img src="/jacobi-app/src/img/jacobi-metodo-perfil.png" alt="Jacobi Método - Projeto" width="100%" />
+  <img src="/jacobi-app/src/img/perfil-jacobi.png" alt="Jacobi Método - Projeto" width="100%" />
 </div>
 
 

@@ -228,7 +228,7 @@ function App() {
       </main>
 
       <footer className="App-footer">
-        <p>Álgebra Linear - BSI UFRA | 2023</p>
+        <p>Álgebra Linear - BSI UFRA | 2024</p>
       </footer>
 
     </div>
